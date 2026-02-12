@@ -1,11 +1,15 @@
-# Exercícios em JavaScript
+# 🧠 Exercícios de Lógica em JavaScript
 
-Scripts simples para treinar lógica de programação.
+Coleção de pequenos scripts para treinar lógica de programação.
 
-Conteúdo:
+## Conteúdo
 • Funções
-• Cálculos
-• Laços de repetição
 • Operações matemáticas
+• Laços de repetição
+• Console.log
 
-Tecnologia: JavaScript
+## Tecnologias
+JavaScript
+
+## Como executar
+Execute o arquivo script.js no navegador ou Node.js.
