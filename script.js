@@ -16,3 +16,10 @@ console.log("Média:", media(7, 8, 9));
 for (let i = 1; i <= 10; i++) {
     console.log("5 x " + i + " = " + (5 * i));
 }
+
+function fatorial(n){
+  let r=1;
+  for(let i=1;i<=n;i++) r*=i;
+  return r;
+}
+console.log(fatorial(5));
